@@ -1,0 +1,20 @@
+{
+  "name": "@alejandroacho/testlibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandroacho/TestLibrary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandroacho/TestLibrary/issues"
+  },
+  "homepage": "https://github.com/Alejandroacho/TestLibrary#readme"
+}
+
